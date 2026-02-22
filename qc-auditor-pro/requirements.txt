@@ -1,0 +1,6 @@
+customtkinter
+reportlab
+google-generativeai
+wmi
+pillow
+packaging

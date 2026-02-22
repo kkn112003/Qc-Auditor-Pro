@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "scan_timestamp": "2026-02-08T20:27:19.816066",
+    "script_version": "2.2"
+  },
+  "identity": {
+    "brand": "ASUSTeK COMPUTER INC.",
+    "model": "VivoBook_ASUSLaptop M1403QA_M1403QA",
+    "serial_number": "NCN0CV08K07450B",
+    "bios_version": "M1403QA.308"
+  },
+  "specs": {
+    "cpu": {
+      "name": "AMD Ryzen 5 5600H with Radeon Graphics",
+      "cores": 6,
+      "threads": 12
+    },
+    "ram": {
+      "total_gb": 15,
+      "slots_used": 2,
+      "type": "Unknown",
+      "speed": "3200 MHz"
+    },
+    "gpu": [
+      "AMD Radeon(TM) Graphics"
+    ],
+    "storage": [
+      {
+        "model": "INTEL SSDPEKNU512GZ",
+        "type": "Fixed Disk",
+        "capacity_gb": 477,
+        "smart_status": "OK",
+        "health_percent": 100
+      }
+    ]
+  },
+  "battery": {
+    "present": true,
+    "design_capacity_mwh": 50014,
+    "full_charge_capacity_mwh": 34725,
+    "wear_level_percent": 30.6,
+    "cycle_count": 0
+  },
+  "connectivity": {
+    "wifi_module": "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card",
+    "bluetooth_present": true,
+    "webcam_present": true,
+    "audio_device": "Standard Audio"
+  },
+  "system_check": {},
+  "manual_inspection": {
+    "phys_body_ok": null,
+    "phys_engsel_ok": null,
+    "phys_lcd_ok": null,
+    "phys_keyboard_ok": null,
+    "phys_port_ok": null,
+    "phys_camera_test_ok": null,
+    "phys_sound_test_ok": null
+  },
+  "error": "<x_wmi: Unexpected COM Error (-2147217385, 'OLE error 0x80041017', None, None)>"
+}

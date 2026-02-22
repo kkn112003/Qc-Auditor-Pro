@@ -1,0 +1,5 @@
+{
+  "name": "QC Auditor Pro",
+  "description": "A professional dashboard for processing hardware QC reports, validating specs against thresholds, and performing manual visual inspections.",
+  "requestFramePermissions": []
+}
