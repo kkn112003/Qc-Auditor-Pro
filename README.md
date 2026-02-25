@@ -58,8 +58,3 @@ D. Export Laporan PDF
 - Dark/Light Mode: Klik ikon matahari/bulan untuk mengubah tema.
 
 -------------------------------------------------------------------
-CATATAN:
-Sistem ini menyimpan data secara lokal di browser Anda. Jangan
-bersihkan cache browser atau "Clear Site Data" jika data penting
-belum diekspor atau disalin.
-===================================================================
