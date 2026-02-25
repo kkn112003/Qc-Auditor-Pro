@@ -1,6 +1,5 @@
-==============================================
-PANDUAN PENGGUNAAN QC AUDITOR PRO
-==============================================
+# PANDUAN PENGGUNAAN QC AUDITOR PRO
+
 
 Sistem QC Auditor Pro dirancang untuk mendigitalkan proses Quality Control
 laptop dengan mengintegrasikan pengambilan data hardware otomatis dan
