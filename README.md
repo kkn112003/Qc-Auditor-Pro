@@ -28,7 +28,7 @@ Langkah-langkah:
 Gunakan langkah ini untuk memproses data yang sudah diambil.
 
 A. Login
-<img width="1920" height="1200" alt="User Login" src="https://github.com/user-attachments/assets/f66e19b7-3c87-455e-b2c6-329b5ae48299" />
+<img width="1897" height="990" alt="User Login" src="https://github.com/user-attachments/assets/43c76655-5171-4c25-9ace-7df15afbdb30" />
 
 1. Buka aplikasi QC Auditor Pro di browser.
 2. Login menggunakan akun Anda:
@@ -39,12 +39,17 @@ B. Import Data
 1. Setelah login, klik tombol "Import Data QC" atau area upload.
 2. Pilih file JSON yang Anda ambil menggunakan USB Collector.
 3. Data akan otomatis masuk ke daftar unit dan tersinkron ke Inventory.
+<img width="1897" height="990" alt="Dashboard Teknisi" src="https://github.com/user-attachments/assets/456355e6-b7e6-45b3-9365-02654dc63fff" />
+
 
 C. Validasi & Checklist Fisik
 1. Klik pada unit laptop di daftar untuk melihat detail.
 2. Lakukan pengecekan fisik (Layar, Keyboard, Bodi, dll) sesuai checklist.
 3. Masukkan catatan tambahan jika diperlukan.
 4. Klik "Simpan" untuk memperbarui status unit.
+<img width="1897" height="990" alt="Detail Unit" src="https://github.com/user-attachments/assets/39281443-20c5-4dfa-a36f-ece40045f0a8" />
+<img width="1897" height="990" alt="Validasi Teknisi" src="https://github.com/user-attachments/assets/c2af1c06-f9e3-4031-b298-af5711418263" />
+
 
 D. Export Laporan PDF
 1. Klik tombol "Expert PDF Report" pada detail unit atau dashboard.
@@ -57,18 +62,15 @@ D. Export Laporan PDF
 - Inventory Management: Data unit otomatis tersinkron ke stok.
 - User Management: Pengaturan akun pengguna (hanya akun Admin).
 - Repair Ticketing: Unit yang "FAIL" otomatis membuat tiket perbaikan.
-- <img width="1920" height="1200" alt="Repair Admin" src="https://github.com/user-attachments/assets/58f3d4d8-1062-42ef-9043-9e1da3be3423" />
-<img width="1920" height="1200" alt="Master Data" src="https://github.com/user-attachments/assets/737ea357-4704-436f-b554-6f8dcb8a2183" />
-<img width="1920" height="1200" alt="Tools   Script teknisi" src="https://github.com/user-attachments/assets/0426499b-a8e5-4ada-97dc-a82ab8fbe5fb" />
-<img width="1920" height="1200" alt="User Management" src="https://github.com/user-attachments/assets/c2d0834e-4fd9-435d-8111-8d0a3443f7b9" />
-<img width="1920" height="1200" alt="Tools   Drivers" src="https://github.com/user-attachments/assets/826a9aef-f566-4a33-8ae0-f124a50a29ee" />
-<img width="1920" height="1200" alt="Validasi Teknisi" src="https://github.com/user-attachments/assets/2a5ba409-aaf3-433a-9be6-68cecea004d1" />
-<img width="1920" height="1200" alt="Dashboard Teknisi" src="https://github.com/user-attachments/assets/6ceaa0f5-47e0-4c21-a77d-9855f17cbbda" />
-<img width="1920" height="1200" alt="Dashboard Admin" src="https://github.com/user-attachments/assets/6bdde2c0-313c-4037-99fc-ec88c84a895e" />
-<img width="1920" height="1200" alt="History Teknisi" src="https://github.com/user-attachments/assets/b6126759-239a-4711-95f2-6d53d303f1df" />
-<img width="1920" height="1200" alt="History Admin" src="https://github.com/user-attachments/assets/e2e2a1fe-7d8b-4a14-922b-94d1e71a76f2" />
-<img width="1920" height="1200" alt="Detail Spesifikasi Hardware dan Modul Cek Fisik" src="https://github.com/user-attachments/assets/d1089b61-62f9-439d-942a-bb537e3760cb" />
-
 - Dark/Light Mode: Klik ikon matahari/bulan untuk mengubah tema.
-<img width="1920" height="1200" alt="Light Mode" src="https://github.com/user-attachments/assets/ecbc8190-f600-4845-ba51-cfbb1bd6caf0" />
+<img width="1897" height="990" alt="Dashboard Admin" src="https://github.com/user-attachments/assets/9cbd540d-e946-4763-904b-ded96437a31d" />
+<img width="1897" height="990" alt="History   Logs Admin" src="https://github.com/user-attachments/assets/1dc35c9b-e74a-4f81-a4a0-3ca75b2c2670" />
+<img width="1897" height="990" alt="History Teknisi" src="https://github.com/user-attachments/assets/dd7832b2-a0e0-463c-bd12-b1760255cfae" />
+<img width="1897" height="990" alt="Master Data" src="https://github.com/user-attachments/assets/07a87fe4-7b31-45df-84e9-d62a1a6f5a76" />
+<img width="1897" height="990" alt="Repair Admin" src="https://github.com/user-attachments/assets/3abd2c2e-4793-4754-9880-4660c40f30e3" />
+<img width="1897" height="990" alt="Tools   Drivers Admin" src="https://github.com/user-attachments/assets/9d7d39e1-ce5e-4a88-b2a5-05ea08d751b7" />
+<img width="1897" height="990" alt="Tools   Drivers Teknisi" src="https://github.com/user-attachments/assets/e3e8eb44-2e04-4ebd-bebf-a157f9690bd7" />
+<img width="1897" height="990" alt="User Management" src="https://github.com/user-attachments/assets/49f3e934-cf42-4f53-9d39-ec481c5a1694" />
+<img width="1897" height="990" alt="Light Mode" src="https://github.com/user-attachments/assets/ba936fb5-0aaa-43af-ba14-55139669379e" />
+<img width="1897" height="990" alt="Konfirmasi LogOut" src="https://github.com/user-attachments/assets/a4217d9c-ee63-49bb-afde-b0803104dd70" />
 -------------------------------------------------------------------
