@@ -32,7 +32,7 @@ A. Login
 
 1. Buka aplikasi QC Auditor Pro di browser.
 2. Login menggunakan akun Anda:
-   - Admin: Username 'admin' Paaword 'admin'
+   - Admin: Username 'admin' password 'admin'
    - Teknisi: Username 'teknisi' password 'teknisi'
 
 B. Import Data
